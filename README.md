@@ -1,6 +1,6 @@
-# Random Test Notes II
+# Dark Mode Notes
 
-Just Checking If This works or not II
+Just Checking If This works or not Dark Mode
 
 ## About
 
