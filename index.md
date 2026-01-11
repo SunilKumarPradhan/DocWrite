@@ -1,13 +1,13 @@
 ---
-title: "Random Test Notes II"
+title: "Dark Mode Notes"
 layout: default
 nav_order: 0
 last_modified_date: 2026-01-11
 ---
 
-# Random Test Notes II
+# Dark Mode Notes
 
-> Just Checking If This works or not II
+> Just Checking If This works or not Dark Mode
 
 {: .note }
 **1 comprehensive lecture notes** covering the complete course curriculum.
