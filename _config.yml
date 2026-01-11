@@ -1,5 +1,5 @@
-title: Random Test Notes II
-description: Just Checking If This works or not II
+title: Dark Mode Notes
+description: Just Checking If This works or not Dark Mode
 baseurl: /DocWrite
 url: https://SunilKumarPradhan.github.io/DocWrite
 
@@ -13,7 +13,7 @@ plugins:
   - jekyll-include-cache
 
 # Theme settings
-color_scheme: dark
+color_scheme: notesmith
 search_enabled: true
 heading_anchors: true
 
