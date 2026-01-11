@@ -1,13 +1,13 @@
 ---
-title: "Random Test Notes"
+title: "Random Test Notes II"
 layout: default
 nav_order: 0
 last_modified_date: 2026-01-11
 ---
 
-# Random Test Notes
+# Random Test Notes II
 
-> Just Checking If This works or not
+> Just Checking If This works or not II
 
 {: .note }
 **1 comprehensive lecture notes** covering the complete course curriculum.
@@ -16,7 +16,7 @@ last_modified_date: 2026-01-11
 
 ## Course Content
 
-### 1. [🎓 Understanding Belly Fat Loss: A Comprehensive Guide](01.%20Understanding%20Belly%20Fat%20Loss%20A%20Comprehensive%20Guide.html)
+### 1. [🎓 Life Lessons and Reflections: A Letter to My Younger Self](01.%20Life%20Lessons%20and%20Reflections%20A%20Letter%20to%20My%20Younger%20Self.html)
 
 ---
 
